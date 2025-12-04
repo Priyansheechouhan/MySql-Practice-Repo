@@ -37,7 +37,7 @@ This repository contains my **daily SQL practice**, organized cleanly from begin
 
 | Day | Topic | Status |
 |-----|--------|---------|
-| Day 1 | Basic SELECT, WHERE, Operators | ✔️ Completed |
+| Day 1 | Basics  | ✔️ Completed |
 | Day 2 | ORDER BY, LIMIT, DISTINCT | ✔️ Completed |
 | Day 3 | Aggregate Functions | ✔️ Completed |
 | Day 4 | GROUP BY & HAVING | ✔️ Completed |
