@@ -14,7 +14,6 @@ This repo documents my journey from **beginner to advanced MySQL**, covering eve
 - [Stored Procedures](#-stored-procedures)
 - [Triggers](#-triggers)
 - [Window Functions](#-window-functions)
-- [Repository Structure](#-repository-structure)
 - [Goals](#-goals)
 - [How to Use](#-how-to-use)
 - [Contact](#-contact)
