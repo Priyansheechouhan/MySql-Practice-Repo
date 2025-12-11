@@ -178,7 +178,7 @@ Used for analytical & ranking queries.
 
 1. Clone the repo  
 ```
-git clone https://github.com/<your-username>/mysql-daily-practice.git
+git clone https://github.com/Priyansheechouhan/MySql-Practice-Repo
 ```
 
 2. Navigate folders for topic-wise `.sql` files  
